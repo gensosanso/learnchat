@@ -145,13 +145,13 @@ export default function Home() {
               />
             </div>
             <Link href="/login">
-              <Button variant="ghost" className="font-medium p-2">
-                Log in
+              <Button variant="ghost" className="font-medium px-4 py-2">
+                Login
               </Button>
             </Link>
             <Link href="/signup">
-              <Button className="bg-gradient-to-r from-primary to-primary/80 hover:from-primary/90 hover:to-primary/70 shadow-lg p-2">
-                Sign up
+              <Button className="bg-gradient-to-r from-primary to-primary/80 hover:from-primary/90 hover:to-primary/70 shadow-lg px-4 py-2">
+                Signup
               </Button>
             </Link>
           </div>
